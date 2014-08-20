@@ -1,0 +1,7 @@
+#######################################
+# Keywords tell Arduino what matters!
+# This keywords file should be with MVL.cpp and MVL.h
+#######################################
+
+MVL		KEYWORD1
+fade	KEYWORD2
